@@ -29,7 +29,7 @@ My extra credit count is as follows:
 - Instead of having your bot reply randomly to posts, make your bot reply to the most highly upvoted comment in a thread that it hasn't already replied to. _See_ `tlc_bot.py` (+ 2)
 - Have your bot upvote any comment or submission that mentions your favorite candidate (or downvote submission mentioning a candidate you do not like), especially by using TextBlob. _See_ `upvote_bot.py` (+ 4)
 
-Since I completed all the tasks for `bot.py`, I believe that I should receive a total of **44 points**.
+Since I completed all the tasks for `bot.py`, I believe that I should receive a total of **34 points**.
 
 [My favorite thread](https://old.reddit.com/r/BotTown2/comments/r2771d/kim_jong_un_is_possibly_in_a_vegetative_state/hm3136x/?context=3) is pretty short, but I just love how it's just one non-sequitur after the other.
 ![image](https://user-images.githubusercontent.com/4709565/143723420-60142b4a-6783-4aad-a712-f744915374cc.png)
